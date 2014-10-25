@@ -32,6 +32,8 @@
     CCLabelTTF *_scoreLabel;
     CCLabelTTF *_nameLabel;
     
+    ccPhysicsCollisionBegin;
+    
     int points;
 }
 

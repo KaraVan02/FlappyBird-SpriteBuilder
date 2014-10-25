@@ -32,6 +32,8 @@
     CCLabelTTF *_scoreLabel;
     CCLabelTTF *_nameLabel;
     
+    CCNode *physicsNode
+    
     int points;
 }
 
